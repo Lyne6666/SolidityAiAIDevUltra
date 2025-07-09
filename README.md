@@ -1,2 +1,1 @@
-# SolidityAiAIDevUltra
-Advanced SolidityAiAIDevUltra project
+.
